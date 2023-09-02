@@ -1,4 +1,2 @@
-Для загрузки заготовленных новостей после применения миграций выполните команду:
-```bash
-python manage.py loaddata news.json
-```
+It is a program for writing and reading news.
+I wrote tests for this program. For this I used pytest and unittest.
